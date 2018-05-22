@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Documentation</name>
+    </assembly>
+    <members>
+        <member name="M:Documentation.Calculator.AddWhoNumbers(System.Double,System.Double)">
+            <summary>
+            Adds two doubles, and returns the result
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns>The sum of the two provided numbers</returns>
+        </member>
+    </members>
+</doc>
